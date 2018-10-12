@@ -9,4 +9,4 @@ Primary Goal: 1. Construct an evacuation strategy. Initial heuristic that we hav
 Stretch Goals(Subject to change): 2. Rehabilitation Planning
                                   3. Damage Assesment.
                
-Technologies used: We hope to achieve this using Azure's Geospatial Data services in tandem with Azure's Machine Learning and Computer Vision APIs.
+Technologies used: We hope to achieve this using Azure's Geospatial Analytics along Machine Learning and Computer Vision APIs.
